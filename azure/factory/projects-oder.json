@@ -1,0 +1,9 @@
+{
+	"name": "projects-oder",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6ceb37bf-f1ec-4d5d-b3b1-0911a9bd201c",
+		"tenantId": "0029e689-f74f-424d-9840-4bd7f7d5cabc"
+	}
+}
